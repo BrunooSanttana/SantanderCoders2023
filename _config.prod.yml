@@ -1,0 +1,4 @@
+# Configurações do Jekyll
+title: Meu Site Jekyll
+description: Um site gerado pelo Jekyll
+theme: jekyll-theme-primer
