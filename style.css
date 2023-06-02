@@ -7,6 +7,18 @@
 }
 
 /* Estilos para o modo dark */
+#toggle-dark-mode {
+    position: absolute;
+    top: 53px;
+    right: 920px;
+    margin-top: 15px;
+  }
+ 
+#toggle-dark-mode:hover {
+    background-color: #4b4b4b; /* Altere para a cor desejada */
+    color: #ffffff; /* Altere para a cor desejada */
+  } 
+
 body.dark-mode {
     background-color: #333;
     color: #fff;
@@ -14,17 +26,50 @@ body.dark-mode {
 
 body.dark-mode a {
     color: #ccc;
+    
 }
 
 body.dark-mode .owl-prev,
 body.dark-mode .owl-next {
     background-color: #333;
     color: #fff;
+    
 }
 
 body.dark-mode .owl-prev:hover,
 body.dark-mode .owl-next:hover {
     background-color: #555;
 }
+
+/* Estilos para o header/cabeçalho */
+nav {    
+    padding: 25px;
+  }
   
+  nav img {
+    max-width: 200px;
+    margin-top: -15px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin-top: -100px;
+    margin-left: 450px;
+    padding: 10px;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: #000000;    
+  }
+  nav a:hover {
+    color: #ff0000;
+  }
 
