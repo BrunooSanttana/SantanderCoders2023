@@ -1,0 +1,30 @@
+/* Aumenta o tamanho das setas do carrosel*/
+.owl-prev,
+.owl-next {           
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;            
+}
+
+/* Estilos para o modo dark */
+body.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+body.dark-mode a {
+    color: #ccc;
+}
+
+body.dark-mode .owl-prev,
+body.dark-mode .owl-next {
+    background-color: #333;
+    color: #fff;
+}
+
+body.dark-mode .owl-prev:hover,
+body.dark-mode .owl-next:hover {
+    background-color: #555;
+}
+  
+
