@@ -1,6 +1,6 @@
 <h1> Santander Coders 2023 </h1> 
 
-Projeto desenvolvido enquanto fiz o curso introdutório do Santander Coders 2023
+Projeto desenvolvido para o curso introdutório do Santander Coders 2023
 
 Utilizei nesse site:
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
